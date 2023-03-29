@@ -1,4 +1,4 @@
-# Netflix-s-Data-Analysis-Using-Tableau
+# Netflix's Data Analysis Using Tableau
 
 *Collected Netflix data from multiple web sources and used SQL to data management and cleaning. 
 
